@@ -13,6 +13,8 @@ creator:
     - http://en.wikipedia.org/wiki/Anonymity
     - http://www.gutenberg.org/browse/authors/u#a49
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33748#The-Kitchen-EncyclopediaTwelfth-Edition--Swift--amp--Company-
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2010-09-17'
 gutenberg_type: Text
